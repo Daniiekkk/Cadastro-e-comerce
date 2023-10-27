@@ -1,8 +1,5 @@
 # Cadastro-e-comerce
 
-![Gif](Gif/Cadastro.gif)
-=======
-
 # Índice
 * [Descrição](#descri%C3%A7%C3%A3o)
 * [Funcionalidades](#funcionalidade)
