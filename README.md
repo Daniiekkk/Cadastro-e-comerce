@@ -1,6 +1,6 @@
 # Cadastro-e-comerce
 
-![imagem](Gif/Cadastro.gif)
+![Gif](Gif/Cadastro.gif)
 =======
 
 # Índice
